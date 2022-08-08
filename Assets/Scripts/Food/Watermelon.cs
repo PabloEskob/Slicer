@@ -1,0 +1,2 @@
+public class Watermelon : Food{}
+
